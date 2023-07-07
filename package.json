@@ -1,0 +1,21 @@
+{
+  "name": "hello-rsc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hattip/adapter-node": "^0.0.34",
+    "@hattip/core": "^0.0.34",
+    "@vitejs/plugin-react": "^4.0.2",
+    "react": "0.0.0-experimental-e91142dd6-20230705",
+    "react-dom": "0.0.0-experimental-e91142dd6-20230705",
+    "react-server-dom-webpack": "0.0.0-experimental-e91142dd6-20230705",
+    "vite": "^4.4.2"
+  }
+}
